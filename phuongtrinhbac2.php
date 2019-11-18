@@ -40,7 +40,7 @@ $pt1->getResult();
 	<body>
 		<div>
 		<form action="#" method="post">
-			<input type="text" name="a" required>x<sup>2</sup> + <input type="text" name="b" required>x + <input type="text" name="c" required> = 0;
+			<input type="number" name="a" required>x<sup>2</sup> + <input type="number" name="b" required>x + <input type="number" name="c" required> = 0;
 			<input type="submit" name="ok" value="Result">
 		</form>
 		</div>
